@@ -50,6 +50,7 @@ h3 {
   left: 0;
   right: 0;
   color: #ffffff;
+  position: absolute;
 }
 .intro__autor img {
   width: 60px;
