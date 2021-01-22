@@ -1,13 +1,17 @@
 .contenedor--cajas {
-    width: 1400px;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     justify-content: space-evenly;
 }
 
 .caja {
-    max-width: 430px;
-    .sombra-caja;
+    max-width: 30%;
+    .sombra-caja();
+    &__imagen {
+        width: 100%;
+        overflow: hidden;
+    }
     &__contenido {
         padding: 25px;
         background-color: @color-claro;
