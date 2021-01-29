@@ -5,7 +5,7 @@
 Ese proyecto fue construido con los conocimientos adquiridos con el curso tomado en la plataformas Platzi. El mismo consta de la elaboración de una Landin Page con el procesador Less. 
 
 ## ▶️ Comienza
-Solo debes ingresar al siguiente link para ver el Proyecto: [Proyecto 15]() y así poder darme tu feedback.
+Solo debes ingresar al siguiente link para ver el Proyecto: [Proyecto 15](https://diegudeveloper.github.io/Proyecto15-less/) y así poder darme tu feedback.
 
 ## 👨🏻‍💻 Tecnologías
 1. Html
