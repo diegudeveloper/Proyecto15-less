@@ -23,6 +23,6 @@ Solo debes ingresar al siguiente link para ver el Proyecto: [Proyecto 15](https:
 <details>
     <summary>📱 Mobile version</summary>
     
-![]()
+![](https://github.com/diegudeveloper/Proyecto15-less/blob/gh-pages/images/pugmovil.png)
 
 </details>
